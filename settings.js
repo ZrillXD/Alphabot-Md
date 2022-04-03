@@ -12,25 +12,27 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read pesan / message
+global.autoread = false // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
-global.thumbnail = "./image/lol.jpg"
-global.donasi = "./image/donasi.jpg"
+global.botname = "©𝙕𝙍𝙄𝙇𝙇𝙓𝘿ོ" //namabot kalian
+global.ownername= "ᴹᴿ᭄ ZrillOFCོ ×፝֟͜×" //nama kalian
+global.myweb ="NOT" //bebas asal jan hapus
+global.youtube = "NOT" //bebas asal jan hapus
+global.github = "NOT" //bebas
+global.email = "zrillxdofc@gmail.com" //bebas
+global.region = "Indonesia" //bebas
+global.ownernomer = "+6285828184314" // nomor wa kalian
+global.ownernomerr = "+6282332222307" //nmr wa kalian
+global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+global.owner = ["6282332222307","6285828184314","628881729928"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©𝙕𝙍𝙄𝙇𝙇𝙓𝘿ོ' //sticker wm ubah
+global.author = 'Di Buat Oleh ZrillXD OFC' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
